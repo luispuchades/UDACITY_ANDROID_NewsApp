@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <string name="placeholder_news_title">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis lacus ac sapien accumsan mattis. Integer ex urna, placerat vel aliquet a, condimentum ut orci.</string>
+
+    <string name="placeholder_news_author">John Doe</string>
+
+    <string name="placeholder_news_date">July 12, 2017</string>
+
+    <string name="placeholder_news_section">Economics</string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">News App Settings</string>
+    <!-- String for checking if there is an app to intent -->
+    <string name="noApp">There is no app to show the web page</string>
+    <!-- String if there is no news -->
+    <string name="no_news_items">No news found.</string>
+
+    <!-- Strings For days Preference [CHAR LIMIT=30] -->
+    <string name="settings_days_back_key" translatable="false">days-back</string>
+    <string name="settings_days_back_default" translatable="false">2</string>
+    <string name="settings_days_back_title">Days back to retrieve</string>
+
+    <!-- Strings For items Preference [CHAR LIMIT=30] -->
+    <string name="settings_items_key" translatable="false">page-size</string>
+    <string name="settings_items_default" translatable="false">25</string>
+    <string name="settings_items_label">Items to retrieve</string>
+
+
+</resources>
